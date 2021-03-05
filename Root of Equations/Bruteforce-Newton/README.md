@@ -2,7 +2,8 @@
 
  Instructor: Engr. Dylan Josh D. Lopez <br>
 
- Submitted by: L.A Guy © 2021 <br>
+ Submitted by: 
+	       L.A Guy © 2021 <br>
 	       R.Surio Jr. © 2021 <br>
 	       M.A Sustento © 2021 <br>
 	       T.J Vallarta © 2021 <br>
