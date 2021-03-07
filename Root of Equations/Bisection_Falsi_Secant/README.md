@@ -14,7 +14,7 @@
 
  * Bisection Method<br>
  * Falsi Method<br>
- * Secant<br>
+ * Secant Method<br>
 
  The files on this folder are:
 
