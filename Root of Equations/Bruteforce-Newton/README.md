@@ -12,6 +12,10 @@
 
 # Lemon Package
 
+ * Brute Force Method(iteration)<br>
+ * Brute Force Method(intermsx)<br>
+ * Newton-Raphson Method<br>
+
  The files on this folder are:
 
 	* lemon_package - The package created by the group that contains methods for finding roots of equation.
